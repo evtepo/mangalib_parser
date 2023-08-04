@@ -1,0 +1,60 @@
+Токийские мстители ---- {'href': 'https://mangalib.me/toukyou-revengers', 'Год релиза': '2017', 'Возрастной рейтинг': '16+', 'Автор': 'Ken Wakui', 'Художник': 'Ken Wakui', 'Загружено глав': '287'}
+Клинок, рассекающий демонов ---- {'href': 'https://mangalib.me/kimetsu-no-yaiba', 'Год релиза': '2016', 'Возрастной рейтинг': '16+', 'Автор': 'Koyoharu Gotouge', 'Художник': 'Koyoharu Gotouge', 'Загружено глав': '236'}
+Моя геройская академия ---- {'href': 'https://mangalib.me/boku_no_hero_academia', 'Год релиза': '2014', 'Возрастной рейтинг': '16+', 'Автор': 'HORIKOSHI Kouhei', 'Художник': 'HORIKOSHI Kouhei', 'Загружено глав': '399'}
+Великий из Бродячих Псов ---- {'href': 'https://mangalib.me/bungou-stray-dogs', 'Год релиза': '2012', 'Возрастной рейтинг': '16+', 'Автор': 'Kafka Asagiri', 'Художник': 'Sango Harukawa', 'Загружено глав': '125'}
+Эта Горилла Умрет Через 1 День ---- {'href': 'https://mangalib.me/this-gorilla-will-die-in-1-day', 'Год релиза': '2021', 'Автор': 'ISHIDA Sui', 'Художник': 'ISHIDA Sui', 'Загружено глав': '3'}
+Ван Пис ---- {'href': 'https://mangalib.me/one-piece', 'Год релиза': '1997', 'Возрастной рейтинг': '16+', 'Автор': 'Eiichiro Oda', 'Художник': 'Eiichiro Oda', 'Загружено глав': '1094'}
+Ванпанчмен ---- {'href': 'https://mangalib.me/onepunchman', 'Год релиза': '2012', 'Возрастной рейтинг': '16+', 'Автор': 'ONE', 'Художник': 'Murata Yuusuke', 'Загружено глав': '284'}
+Синяя Тюрьма: Блю Лок ---- {'href': 'https://mangalib.me/blue-lock', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'KANESHIRO Muneyuki', 'Художник': 'Genomura Yusuke', 'Загружено глав': '203'}
+Не издевайся, Нагаторо-сан ---- {'href': 'https://mangalib.me/ijiranaide-nagatoro-san', 'Год релиза': '2017', 'Возрастной рейтинг': '16+', 'Автор': '774 house', 'Художник': '774 house', 'Загружено глав': '158'}
+Я распродал свою жизнь. По десять тысяч иен за год. ---- {'href': 'https://mangalib.me/jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de', 'Год релиза': '2016', 'Возрастной рейтинг': '16+', 'Автор': 'Sugaru Miaki', 'Художник': 'TAGUCHI Shouichi', 'Загружено глав': '24'}
+Волейбол!! ---- {'href': 'https://mangalib.me/haikyu', 'Год релиза': '2012', 'Автор': 'FURUDATE Haruichi', 'Художник': 'FURUDATE Haruichi', 'Загружено глав': '408'}
+Туалетный мальчик Ханако-кун ---- {'href': 'https://mangalib.me/jibaku-shounen-hanako-kun', 'Год релиза': '2015', 'Автор': 'Aida Iro', 'Художник': 'Aida Iro', 'Загружено глав': '108'}
+Обещанный Неверленд ---- {'href': 'https://mangalib.me/yakusoku-no-neverland', 'Год релиза': '2016', 'Автор': 'SHIRAI Kaiu', 'Художник': 'Posuka Demizu'}
+О моём перерождении в слизь ---- {'href': 'https://mangalib.me/tensei-shitara-slime-datta-ken', 'Год релиза': '2015', 'Возрастной рейтинг': '16+', 'Автор': 'Fuse', 'Художник': 'KAWAKAMI Taiki', 'Загружено глав': '110'}
+Кагуя хочет, чтобы ей признались: Гении — война любви и разума ---- {'href': 'https://mangalib.me/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen', 'Год релиза': '2015', 'Автор': 'Aka Akasaka', 'Художник': 'Aka Akasaka', 'Загружено глав': '301'}
+Хоримия ---- {'href': 'https://mangalib.me/horimiya', 'Год релиза': '2011', 'Автор': 'HERO', 'Художник': 'Daisuke Hagiwara', 'Загружено глав': '128'}
+Магическая битва ---- {'href': 'https://mangalib.me/jujutsu-kaisen', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'Akutami Gege', 'Художник': 'Akutami Gege'}
+Оглянись ---- {'href': 'https://mangalib.me/look-back', 'Год релиза': '2021', 'Автор': 'Tatsuki Fujimoto', 'Художник': 'Tatsuki Fujimoto', 'Загружено глав': '1'}
+Прощай, Эри ---- {'href': 'https://mangalib.me/goodbye-eri', 'Год релиза': '2022', 'Возрастной рейтинг': '16+', 'Автор': 'Tatsuki Fujimoto', 'Художник': 'Tatsuki Fujimoto', 'Загружено глав': '1'}
+Эта фарфоровая кукла влюбилась ---- {'href': 'https://mangalib.me/sono-bisque-doll-wa-koi-wo-suru', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'Fukuda Shinichi', 'Художник': 'Fukuda Shinichi', 'Загружено глав': '82'}
+Восхождение в тени ---- {'href': 'https://mangalib.me/kage-no-jitsuryokusha-ni-naritakute', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'Daisuke Aizawa', 'Художник': 'SAKANO Anri', 'Загружено глав': '55'}
+Боруто: Новое Поколение Наруто ---- {'href': 'https://mangalib.me/boruto', 'Год релиза': '2016', 'Автор': 'KODACHI Ukyo\nMasashi Kishimoto', 'Художник': 'IKEMOTO Mikio', 'Загружено глав': '80'}
+Всё, что тебе нужно, — это убивать ---- {'href': 'https://mangalib.me/all-you-need-is-kill', 'Год релиза': '2014', 'Возрастной рейтинг': '16+', 'Автор': 'SAKURAZAKA Hiroshi\nRyousuke Takeuchi', 'Художник': 'OBATA Takeshi', 'Загружено глав': '17'}
+Невероятные Приключения ДжоДжо — Часть 7: Стил-Болл-Ран (В цвете) ---- {'href': 'https://mangalib.me/jojo-no-kimyou-na-bouken-part-7-steel-ball-run-solored', 'Год релиза': '2004', 'Возрастной рейтинг': '16+', 'Автор': 'ARAKI Hirohiko', 'Художник': 'ARAKI Hirohiko', 'Загружено глав': '97'}
+Я стала злодейкой, поэтому мне нужно заарканить последнего босса ---- {'href': 'https://mangalib.me/akuyaku-reijo-nano-de-last-boss-wo-kattemimashita', 'Год релиза': '2018', 'Автор': 'Nagase Sarasa', 'Художник': 'Yuzu Anko', 'Загружено глав': '16'}
+Очкарик-янки ---- {'href': 'https://mangalib.me/megane-tokidoki-yankee-kun', 'Год релиза': '2021', 'Автор': 'Naruki', 'Художник': 'Naruki', 'Загружено глав': '22'}
+Звёздное Дитя ---- {'href': 'https://mangalib.me/oshi-no-ko', 'Год релиза': '2020', 'Возрастной рейтинг': '16+', 'Автор': 'Aka Akasaka', 'Художник': 'YOKOYARI Mengo', 'Загружено глав': '129'}
+Получеловек ---- {'href': 'https://mangalib.me/ajin', 'Год релиза': '2012', 'Возрастной рейтинг': '16+', 'Автор': 'MIURA Tsuina\n SAKURAI Gamon', 'Художник': 'SAKURAI Gamon', 'Загружено глав': '100'}
+Инцидент на третьей авеню района Гокураку ---- {'href': 'https://mangalib.me/gokurakugai-sanbandori-no-ken', 'Год релиза': '2020', 'Возрастной рейтинг': '16+', 'Автор': 'Sano Yuto', 'Художник': 'Sano Yuto', 'Загружено глав': '1'}
+Наруто ---- {'href': 'https://mangalib.me/naruto', 'Год релиза': '1999', 'Возрастной рейтинг': '16+', 'Автор': 'Masashi Kishimoto', 'Художник': 'Masashi Kishimoto', 'Загружено глав': '702'}
+Путь домохозяина ---- {'href': 'https://mangalib.me/gokushufudou', 'Год релиза': '2018', 'Автор': 'Kousuke Oono', 'Художник': 'Kousuke Oono', 'Загружено глав': '117'}
+Девочка, которая видит это ---- {'href': 'https://mangalib.me/mieru-ko-chan', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'Izumi Tomoki', 'Художник': 'Izumi Tomoki', 'Загружено глав': '63'}
+Необъятный океан ---- {'href': 'https://mangalib.me/guran-buru', 'Год релиза': '2014', 'Возрастной рейтинг': '16+', 'Автор': 'INOUE Kenji', 'Художник': 'YOSHIOKA Kimitake', 'Загружено глав': '109'}
+Спираль ---- {'href': 'https://mangalib.me/uzumaki', 'Год релиза': '1998', 'Возрастной рейтинг': '16+', 'Автор': 'Junji Itou', 'Художник': 'Junji Itou', 'Загружено глав': '23'}
+Да, я паук, и что с того? ---- {'href': 'https://mangalib.me/kumo-desu-ga-nani-ka', 'Год релиза': '2015', 'Автор': 'BABA Okina', 'Художник': 'KAKASHI Asahiro', 'Загружено глав': '139'}
+Страна самоцветов ---- {'href': 'https://mangalib.me/houseki-no-kuni', 'Год релиза': '2012', 'Автор': 'Haruko Ichikawa', 'Художник': 'Haruko Ichikawa', 'Загружено глав': '108'}
+Тёмный дворецкий ---- {'href': 'https://mangalib.me/kuroshitsuji', 'Год релиза': '2006', 'Возрастной рейтинг': '16+', 'Автор': 'TOBOSO Yana', 'Художник': 'TOBOSO Yana', 'Загружено глав': '205'}
+Даже если твой рот разорван (2018) ---- {'href': 'https://mangalib.me/kuchi-ga-saketemo-kimi-niwa', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'KAJIMOTO Akari', 'Художник': 'KAJIMOTO Akari', 'Загружено глав': '3'}
+У Коми-сан проблемы с общением. ---- {'href': 'https://mangalib.me/miss-komi-is-bad-at-communication', 'Год релиза': '2015', 'Автор': 'ODA Tomohito', 'Художник': 'ODA Tomohito', 'Загружено глав': '384'}
+Чёрный клевер ---- {'href': 'https://mangalib.me/black-clover', 'Год релиза': '2015', 'Возрастной рейтинг': '16+', 'Автор': 'Yuuki Tabata', 'Художник': 'Yuuki Tabata'}
+Кайдзю No. 8 ---- {'href': 'https://mangalib.me/8kaijuu', 'Год релиза': '2020', 'Автор': 'Naoya Matsumoto', 'Художник': 'Naoya Matsumoto'}
+Повесть о Конце Света ---- {'href': 'https://mangalib.me/shuumatsu-no-walkure-shuumatsu-no-valkyrie', 'Год релиза': '2017', 'Возрастной рейтинг': '16+', 'Автор': 'Umemura Shinya\nFUKUI Takumi', 'Художник': 'AJI Chika', 'Загружено глав': '87'}
+Доктор Стоун ---- {'href': 'https://mangalib.me/dr-stone', 'Год релиза': '2017', 'Автор': 'INAGAKI Riichiro', 'Художник': 'Boichi'}
+Бездомный Бог ---- {'href': 'https://mangalib.me/noragami', 'Год релиза': '2010', 'Автор': 'ADACHI Toka', 'Художник': 'ADACHI Toka', 'Загружено глав': '140'}
+Приди же в Мир Демонов, Ирума-кун! ---- {'href': 'https://mangalib.me/mairimashita-iruma-kun', 'Год релиза': '2017', 'Возрастной рейтинг': '16+', 'Автор': 'Osamu Nishi', 'Художник': 'Osamu Nishi', 'Загружено глав': '311'}
+Ненасытный Берсерк ---- {'href': 'https://mangalib.me/berserk-of-gluttony', 'Год релиза': '2018', 'Возрастной рейтинг': '16+', 'Автор': 'ISSHIKI Ichika', 'Художник': 'TAKINO Daisuke', 'Загружено глав': '76'}
+Очень приятно, Бог ---- {'href': 'https://mangalib.me/kamisama-hajimemashita', 'Год релиза': '2008', 'Автор': 'SUZUKI Julietta', 'Художник': 'SUZUKI Julietta', 'Загружено глав': '158'}
+Невероятные Приключения ДжоДжо — Часть 6: Каменный океан (В цвете) ---- {'href': 'https://mangalib.me/jojo-no-kimyou-na-bouken-part-6-stone-ocean-solored', 'Год релиза': '1999', 'Возрастной рейтинг': '16+', 'Автор': 'ARAKI Hirohiko', 'Художник': 'ARAKI Hirohiko', 'Загружено глав': '158'}
+Блич ---- {'href': 'https://mangalib.me/bleach', 'Год релиза': '2001', 'Возрастной рейтинг': '16+', 'Автор': 'Tite Kubo', 'Художник': 'Tite Kubo', 'Загружено глав': '711'}
+Магия и Мускулы ---- {'href': 'https://mangalib.me/mashle-mashle', 'Год релиза': '2020', 'Автор': 'KOUMOTO Hajime', 'Художник': 'KOUMOTO Hajime', 'Загружено глав': '87'}
+Пламенная Бригада Пожарных! ---- {'href': 'https://mangalib.me/enen-no-shouboutai', 'Год релиза': '2015', 'Возрастной рейтинг': '16+', 'Автор': 'OHKUBO Atsushi', 'Художник': 'OHKUBO Atsushi', 'Загружено глав': '307'}
+Патриотизм Мориарти ---- {'href': 'https://mangalib.me/yuukoku-no-moriarty', 'Год релиза': '2016', 'Возрастной рейтинг': '16+', 'Автор': 'Ryousuke Takeuchi', 'Художник': 'Miyoshi Hikaru', 'Загружено глав': '82'}
+Серафим конца ---- {'href': 'https://mangalib.me/owari_no_seraph', 'Год релиза': '2012', 'Автор': 'KAGAMI Takaya', 'Художник': 'YAMAMOTO Yamato', 'Загружено глав': '115'}
+Клинок, рассекающий демонов (цветная версия) ---- {'href': 'https://mangalib.me/kimetsu-no-yaiba-colored', 'Год релиза': '2019', 'Возрастной рейтинг': '16+', 'Автор': 'Koyoharu Gotouge', 'Художник': 'Koyoharu Gotouge', 'Загружено глав': '74'}
+Семья шпиона ---- {'href': 'https://mangalib.me/spy-x-family', 'Год релиза': '2019', 'Автор': 'Tatsuya Endou', 'Художник': 'Tatsuya Endou'}
+Искатель подземелий ---- {'href': 'https://mangalib.me/dungeon-seeker', 'Год релиза': '2016', 'Возрастной рейтинг': '16+', 'Автор': 'Sakamoto 666', 'Художник': 'MIZUKIYOSHI Juro', 'Загружено глав': '33'}
+Дорога Юности ---- {'href': 'https://mangalib.me/ao_haru_ride', 'Год релиза': '2011', 'Автор': 'SAKISAKA Io', 'Художник': 'SAKISAKA Io', 'Загружено глав': '57'}
+Тик-тук ---- {'href': 'https://mangalib.me/toki-doki', 'Год релиза': '2016', 'Автор': 'KOMI Naoshi', 'Художник': 'KOMI Naoshi', 'Загружено глав': '1'}
+Я, Владыка демонов, взял эльфийку-рабыню в жёны. И как же мне её любить? ---- {'href': 'https://mangalib.me/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii', 'Год релиза': '2018', 'Автор': 'TESHIMA Fuminori', 'Художник': 'ITAGAKI Hako', 'Загружено глав': '51'}
+Тетрадь смерти: Спецвыпуск ---- {'href': 'https://mangalib.me/death-note-2020', 'Год релиза': '2020', 'Возрастной рейтинг': '16+', 'Автор': 'Tsugumi Ohba', 'Художник': 'OBATA Takeshi', 'Загружено глав': '1'}
