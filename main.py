@@ -24,12 +24,14 @@ def get_html(url):
             driver.implicitly_wait(1)
             if h == h_prev:
                 break
+
             h_prev = h
     except Exception as ex:
         print(ex)
     finally:
         with open('source-page.html', 'w', encoding='utf-8') as file:
             file.write(driver.page_source)
+
         driver.close()
         driver.quit()
 
@@ -52,6 +54,7 @@ def parser(anime, items):
                     anime.setdefault(data.div.h5.text, {}).setdefault(data.div.h3.text, {}).setdefault('href', data.get('href'))
                     redirect = requests.get(data.get('href'))
                     soup2 = BeautifulSoup(redirect.text, 'lxml')
+                    
                     for second_data in soup2.find_all('a', class_='media-info-list__item'):            
                         check_items(second_data.find('div', class_='media-info-list__title').text, second_data.find('div', class_='media-info-list__value').text)
                     
